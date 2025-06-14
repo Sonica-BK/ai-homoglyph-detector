@@ -1,0 +1,8 @@
+google.com
+facebook.com
+amazon.com
+microsoft.com
+linkedin.com
+github.com
+twitter.com
+apple.com
